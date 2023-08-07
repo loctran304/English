@@ -4822,7 +4822,7 @@ del {
   align-items: center;
   margin: 0 auto;
 }
-.text-title {
+.text-title,.courses-description {
   display: block;
   display: -webkit-box;
   -webkit-line-clamp: 4; /* số dòng hiển thị */
