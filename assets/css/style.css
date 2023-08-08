@@ -916,12 +916,12 @@ li {
 
 .slider-area,
 .slider-area2 {
-  background-image: url("https://caodang.fpt.edu.vn/wp-content/uploads/caodangfptpolytechnic-lienhe-1.jpg");
+  background-image: url("caodangfptpolytechnic-lienhe-1.jpg");
   background-size: contain;
   background-repeat: no-repeat;
-  /* background-position:  */
+  background-position: center;
   position: relative;
-  top: 100px;
+
 }
 
 .slider-area.slider-area2,
