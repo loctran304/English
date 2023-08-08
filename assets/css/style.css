@@ -742,11 +742,12 @@ li {
 }
 
 .main-header .main-menu ul li a {
-  color: black;
-  font-weight: 600;
-  padding: 39px 2px;
+  color: white;
+  font-weight:bold;
+  padding: 36px 1px;
+
   display: block;
-  font-size: 16px;
+  font-size: 18px;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
